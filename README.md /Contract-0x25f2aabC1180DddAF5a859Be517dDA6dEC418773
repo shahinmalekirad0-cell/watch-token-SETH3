@@ -1,0 +1,199 @@
+# Synth sETH ($sETH)
+
+[![Contract](https://img.shields.io/badge/Contract-0x25f2aabC1180DddAF5a859Be517dDA6dEC418773-blue)](https://etherscan.io/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773)
+[![Chain](https://img.shields.io/badge/Chain-Ethereum_ Mainnet-627eea)](https://ethereum.org/)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+**Synth sETH ($sETH)** is a next-generation synthetic asset on the Ethereum Mainnet, uniquely positioned as the **first token 100% backed by physical gold, silver, copper, luxury automobiles, and prime real estate** held in Russia and international markets.
+
+Pegged at **$1,900 USD** with an integrated **anti-sell mechanism**, Synth sETH bridges traditional wealth with decentralized finance (DeFi), offering stability, transparency, and long-term value to investors.
+
+---
+
+## 📋 Table of Contents
+
+- [Token Details](#-token-details)
+- [Smart Contract Features](#-smart-contract-features)
+- [Backing & Collateral](#-backing--collateral)
+- [Tokenomics](#-tokenomics)
+- [Team](#-team)
+- [Roadmap](#-roadmap)
+- [Audit & Security](#-audit--security)
+- [How to Buy](#-how-to-buy)
+- [Listings & Trackers](#-listings--trackers)
+- [Official Links](#-official-links)
+- [Disclaimer](#-disclaimer)
+
+---
+
+## 💎 Token Details
+
+| Field | Information |
+|-------|-------------|
+| **Token Name** | Synth sETH |
+| **Symbol** | sETH |
+| **Contract Address** | [`0x25f2aabC1180DddAF5a859Be517dDA6dEC418773`](https://etherscan.io/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773) |
+| **Chain** | Ethereum Mainnet |
+| **Decimals** | 18 |
+| **Total Supply** | 1,000,000,000,000,000 sETH (fixed, minted at launch) |
+| **Peg Price** | $1,900 USD |
+| **Anti-Sell** | Enabled initially (blocks Uniswap V2/V3 transfers until removed) |
+
+---
+
+## ⚙️ Smart Contract Features
+
+- **Proxy Upgradeable** – Allows future improvements without breaking integrations
+- **Anti-Sell Protection** – Blocks transfers to/from Uniswap V2/V3 pools until removed by the team, preventing early whale manipulation
+- **Peg Price System** – Adjustable by the owner to maintain the $1,900 USD peg
+- **Ownership Controls** – Clear separation of technical and financial responsibilities
+- **Fully Verified** – Verified on [Etherscan](https://etherscan.io/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773) and [Blockscout](https://eth.blockscout.com/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773)
+
+---
+
+## 🏦 Backing & Collateral
+
+Every sETH token is **100% backed** by physical, high-value tangible assets:
+
+| Asset Class | Details |
+|-------------|---------|
+| **Precious Metals** | Gold, Silver, Copper (held in secure vaults) |
+| **Luxury Automobiles** | Ferrari, Porsche, Rolls-Royce |
+| **Real Estate** | Commercial and residential properties in Russia and international markets |
+| **Industrial Commodities** | Diversified physical assets |
+
+All backing assets are professionally managed and subject to **regular third-party audits**, with **proof of reserves** to be published post-audit.
+
+---
+
+## 📊 Tokenomics
+
+- **Total Supply:** 1,000,000,000,000,000 sETH
+- **Distribution:** 100% minted at launch (July 5, 2026, Block `25465538`)
+- **Minting Function:** ❌ None – supply is permanently fixed
+- **Burning Function:** ❌ None
+- **Inflation:** 0% – fully deflationary by design
+- **Vesting:** No vesting schedule – all tokens distributed at launch
+
+---
+
+## 👥 Team
+
+| Role | Name | Experience |
+|------|------|------------|
+| **Founder & Financial Manager** | Mr. Alireza | 15+ years in commodities, luxury assets, and real estate |
+| **Lead Developer** | SH.MRD (Shahin) | Ethereum, Solidity, DeFi expert |
+
+> **Note:** SH.MRD serves solely as the technical developer with **no ownership, financial liability, or asset control**. All asset management and legal responsibility rest with Mr. Alireza.
+
+---
+
+## 🗺️ Roadmap
+
+| Phase | Timeline | Status | Description |
+|-------|----------|--------|-------------|
+| **Phase 1** | July 2026 | ✅ Done | Launch, deployment, contract verification |
+| **Phase 2** | Q3 2026 | 🔄 In Progress | Third-party audits, transparency, community building |
+| **Phase 3** | Q4 2026 | 📅 Upcoming | Liquidity deployment, DEX/CEX listings |
+| **Phase 4** | 2027 | 📅 Upcoming | Cross-chain expansion, staking rewards |
+| **Phase 5** | 2028+ | 📅 Upcoming | DAO governance transition |
+
+---
+
+## 🔒 Audit & Security
+
+- ✅ Smart contract fully verified on Etherscan and Blockscout
+- ✅ No minting function – supply is permanently fixed
+- ✅ Owner cannot modify token balances – no exit scam risk
+- ✅ No hidden owners – full transparency
+- ✅ Anti-sell protection active to prevent whale manipulation
+- ✅ Regular third-party audits of physical backing assets
+- 🔜 Proof of reserves to be published post-audit
+
+---
+
+## 🛒 How to Buy
+
+Synth sETH ($sETH) is available on the following platforms:
+
+| Platform | Link |
+|----------|------|
+| **PancakeSwap** | [Trade on PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x25f2aabc1180dddaf5a859be517dda6dec418773&chain=eth) |
+| **KyberSwap** | [Trade on KyberSwap](https://kyberswap.com/swap/ethereum/-to-0x25f2aabc1180dddaf5a859be517dda6dec418773?r=geckoterminal) |
+| **OKX Web3** | [Trade on OKX Web3](https://web3.okx.com/token/eth/0x25f2aabc1180dddaf5a859be517dda6dec418773?ref=COINGECKOREF) |
+
+> ⚠️ **Note:** The anti-sell mechanism is currently active, blocking transfers to/from Uniswap V2/V3 pools until removed by the team.
+
+---
+
+## 📡 Listings & Trackers
+
+Synth sETH is listed and tracked on the following platforms:
+
+### Blockchain Explorers
+- [Etherscan](https://etherscan.io/token/0x25f2aabc1180dddaf5a859be517dda6dec418773#analytics)
+- [Blockscout](https://eth.blockscout.com/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773?tab=token_transfers)
+- [Routescan](https://routescan.io/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773?chainid=1)
+- [Blockchair](https://blockchair.com/ethereum/erc-20/token/0x25f2aabc1180dddaf5a859be517dda6dec418773?from=geckoterminal)
+- [Tokenview](https://eth.tokenview.io/challendge.html?redirect=/en/address/0x25f2aabc1180dddaf5a859be517dda6dec418773)
+
+### Data Aggregators & Trackers
+- [CoinRanking](https://coinranking.com/coin/Bw1DySxbu+synthseth-seth)
+- [CoinPaprika](https://coinpaprika.com/coin/seth-synth-seth/#widget)
+- [DexPaprika](https://dexpaprika.com/ethereum/token/0x25f2aabc1180dddaf5a859be517dda6dec418773)
+- [LiveCoinWatch](https://www.livecoinwatch.com/price/SynthsETH-___SETH)
+- [CoinCheckup](https://coincheckup.com/coins/synth-seth-token)
+- [CoinMarketCap DEX](https://dex.coinmarketcap.com/token/ethereum/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773/)
+- [CoinEx Onchain](https://www.coinex.com/en/onchain/ETH/0x25f2aabc1180dddaf5a859be517dda6dec418773)
+
+### DEX & Trading Platforms
+- [DEX Screener](https://dexscreener.com/ethereum/0x25f2aabc1180dddaf5a859be517dda6dec418773)
+- [Dextools](https://www.dextools.io/app/ether/pair-explorer/0xd5e9826551463035af0b3bb6f49db903db13eeb7)
+- [GeckoTerminal](https://www.geckoterminal.com/eth/pools/0xd5e9826551463035af0b3bb6f49db903db13eeb7)
+
+### Community & Discovery Platforms
+- [ApeSpace](https://apespace.io/eth/0x25f2aabc1180dddaf5a859be517dda6dec418773)
+- [CoinBoom](https://coinboom.net/coin/synth-seth-2)
+- [Top100Token](https://top100token.com/ethereum/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773)
+- [CoinScope](https://www.coinscope.co/coin/1-seth/cyberscan)
+- [CoinMooner](https://coinmooner.com/coins/synth-seth-seth-3)
+- [ICOHolder](https://icoholder.com/en/synth-seth-1104498)
+- [CoinCatapult](https://www.coincatapult.com/coin/seth-0x25f2)
+- [CoinCommunities](https://coincommunities.org/communities/0x25f2aabc1180dddaf5a859be517dda6dec418773)
+- [ICOLink](https://icolink.com/)
+
+---
+
+## 🔗 Official Links
+
+| Platform | Link |
+|----------|------|
+| **Website** | [https://sether.netlify.app/](https://sether.netlify.app/) |
+| **X (Twitter)** | [https://x.com/SynthsETH](https://x.com/SynthsETH) |
+| **Telegram** | [https://t.me/sETH_NEW](https://t.me/sETH_NEW) |
+| **Etherscan** | [View Contract](https://etherscan.io/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773) |
+| **Blockscout** | [View Contract](https://eth.blockscout.com/token/0x25f2aabC1180DddAF5a859Be517dDA6dEC418773) |
+
+---
+
+## ⚠️ Disclaimer
+
+**Synth sETH ($sETH)** is a synthetic asset, not a security. The token is 100% backed by physical assets, but all investments carry risk. Always do your own research (DYOR) before investing.
+
+**SH.MRD** is the developer only – he holds **no ownership, financial liability, or asset control**. All asset management and legal responsibility rests with **Mr. Alireza** and his team.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Synth sETH – Gold on the chain, confidence in your wallet.*
+
+*"Золото в цепочке, уверенность в кошельке – Synth sETH!"*
+
+---
+
+© 2026 Synth sETH Project. All rights reserved.
